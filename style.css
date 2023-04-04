@@ -23,7 +23,7 @@ body::after{
 .container{
     width: 80%;
     height: 80%;
-    background: rgba(255, 255, 255, 0.2);
+    background: rgba(255, 255, 255, 0.1);
     border-radius: 20px;
     overflow: hidden;
 }
@@ -89,7 +89,7 @@ nav ul li a:hover{
     width: 400px;
 }
 
-@media (min-width:950px) and (max-width:1150px){
+@media (min-width:950px) and (max-width:1200px){
     .content .image img{
         width: 330px;
     }
